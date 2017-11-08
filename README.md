@@ -1,4 +1,4 @@
-# Project Title
+# Pocket Calendar
 
 This is a tiny app run on CLI to show calendar with lunar calendar.
 
