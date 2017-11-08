@@ -1,5 +1,5 @@
 import datetime
-import Calendar as cal
+import CalendarUtils as cal
 
 now = datetime.datetime.now()
 
